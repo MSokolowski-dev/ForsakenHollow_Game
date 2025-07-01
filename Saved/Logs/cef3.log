@@ -1,0 +1,4 @@
+[0630/201634.177:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0630/201905.946:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 1 time(s)
+[0630/201906.086:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0630/201906.344:WARNING:gpu_process_host.cc(1016)] Reinitialized the GPU process after a crash. The reported initialization time was 203 ms
