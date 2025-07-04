@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\ForsakenHollow_Game-main\\ForsakenHollow_Game\\Intermediate\\Source\\HorrorGame.Build.cs",
+		"D:\\ForsakenHollow_Game-main\\ForsakenHollow_Game\\Intermediate\\Source\\HorrorGame.Target.cs",
+		"D:\\ForsakenHollow_Game-main\\ForsakenHollow_Game\\Intermediate\\Source\\HorrorGameClient.Target.cs",
+		"D:\\ForsakenHollow_Game-main\\ForsakenHollow_Game\\Intermediate\\Source\\HorrorGameEditor.Target.cs",
+		"D:\\ForsakenHollow_Game-main\\ForsakenHollow_Game\\Intermediate\\Source\\HorrorGameServer.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}

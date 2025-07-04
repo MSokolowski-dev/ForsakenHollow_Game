@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.HorrorGame.cpp.obj": [
+			"HorrorGame.cpp.obj"
+		]
+	}
+}
